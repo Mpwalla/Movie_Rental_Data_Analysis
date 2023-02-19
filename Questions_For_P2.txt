@@ -1,0 +1,23 @@
+7-10 questions for the project 2
+
+
+
+1. Most common country our customers are based out of.
+
+2. Profit per rating level and
+
+	Genre of movie
+
+3. Sales number per   employee
+
+4.  Popularities of Genre
+
+
+
+5. Highest paying client
+
+6. top grossing store and their highest grossing Genre
+
+7. Inventory levels across the company Movie Title
+
+
